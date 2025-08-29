@@ -209,14 +209,16 @@ def ____banner____():
      ██║░░██║██████╦╝██║██║░░██║
      ╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚═╝
 
-╔═════════════════════════════╗
-║        ✦  ABIR TOOL PANEL ✦     ║               ║
-╚═════════════════════════════╝
-   ➤ Creator        : ABIR RAHMAN
-   ➤ Operated By    : ABIR RAHMAN
-   ➤ Tool Access    : FREE 
-   ➤ Current Version: 0.1
-───────────────────────────────
+╔═══════════════════════════════════╗
+║       ✦  ABIR TOOL PANEL ✦        ║
+╚═══════════════════════════════════╝
+➤ Creator        : ABIR RAHMAN
+➤ Operated By    : ABIR RAHMAN
+➤ Tool Access    : FREE
+➤ Current Version: 0.1
+───────────────────────────────────────────────
+
+
 
      
 \033[0m""")
