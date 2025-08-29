@@ -80,8 +80,8 @@ os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
 
-os.system('xdg-open https://facebook.com/groups/1488808952477163/')
-os.system('xdg-open https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B')
+os.system('xdg-open https://www.facebook.com/100069608025567')
+os.system('xdg-open https://whatsapp.com/channel/0029Vb6IjCIFMqrYAxlkcg3l')
 
 
 # --- Anti-tampering and Security Checks ---
