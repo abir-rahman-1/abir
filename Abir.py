@@ -216,11 +216,7 @@ def ____banner____():
 ➤ Operated By    : ABIR RAHMAN
 ➤ Tool Access    : FREE
 ➤ Current Version: 0.1
-───────────────────────────────────────────────
-
-
-
-     
+─────────────────────────────────────────────  
 \033[0m""")
 
 
@@ -398,7 +394,10 @@ def old_Tow():
             elif meth == 'B':
                 pool.submit(login_2, uid)
             else:
-                print(f"    {rad}[!] INVALID METHOD SELECTED")
+                print(f"Total IDs Processed : {loop}")  # যতটি ID পরীক্ষা হয়েছে
+print(f"Successful Logins  : {len(oks)}")  # যতটি OK হয়েছে
+print("Hey Abir all Check Done ✅")
+print("──────────────────────────────\n")
                 break
 
 
@@ -435,7 +434,10 @@ def old_Tree():
             elif meth == 'B':
                 pool.submit(login_2, uid)
             else:
-                print(f"    {rad}[!] INVALID METHOD SELECTED")
+                print(f"Total IDs Processed : {loop}")  # যতটি ID পরীক্ষা হয়েছে
+print(f"Successful Logins  : {len(oks)}")  # যতটি OK হয়েছে
+print("Hey Abir all Check Done ✅")
+print("──────────────────────────────\n")
                 break
 
 
