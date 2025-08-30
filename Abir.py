@@ -215,8 +215,8 @@ def ____banner____():
 ➤ Creator        : ABIR RAHMAN
 ➤ Operated By    : ABIR RAHMAN
 ➤ Tool Access    : FREE
-➤ Current Version: 0.1
-─────────────────────────────────────────────  
+➤ Creator Account : facebook.com/itxabir00
+
 \033[0m""")
 
 
