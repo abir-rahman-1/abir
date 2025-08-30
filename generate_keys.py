@@ -14,4 +14,4 @@ def generate_key():
 
 # Example of generating 5 keys
 for _ in range(5):
-    print(generate_key())
+    print(generate_key())  # Correct function name
