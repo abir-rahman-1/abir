@@ -17,8 +17,8 @@ from datetime import datetime
 
 import os, sys
 
-# WhatsApp channel link
-channel_link = "https://www.facebook.com/itxabir00"
+#  Facebook account link
+facebook_link = "https://www.facebook.com/itxabir00"
 # Valid keys
 approved_keys = ["ABIR-XD143-MIND-FUCKER"]
 
@@ -27,25 +27,25 @@ def first_step():
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print("        🔒 Script Locked 🔒")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
-    print("\033[1;32m JOIN OUR WHATSAPP CHANNEL ✅ \033[0m\n")
-    print("\033[1;32m KEY APKO CHANEL SA MILY GI FREE ✅ \033[0m\n")
-    print("[!] Pehle WhatsApp Channel par join karo.")
-    print(f"[+] Channel Link: {channel_link}\n")
+    print("\033[1;32m FOLOW KARO ✅ \033[0m\n")
+    print("\033[1;32m KEY APKO INBOX SA MILY GI FREE ✅ \033[0m\n")
+    print("[!] Pehle Follow karo.")
+    print(f"[+] Facebook Link: {facebook_link}\n")
 
-    # Yeh direct WhatsApp channel open karega
-    os.system(f"xdg-open {channel_link}")
+    # Yeh direct Facebook open karega
+    os.system(f"xdg-open {facebook_link}")
 
-    input("\n[↩] Jab join kar lo tab Enter dabao...")
+    input("\n[↩] Jab follow kar lo tab Enter dabao...")
 
 def check_key():
     user_key = input("\n[?] Enter your key: ")
     if user_key in approved_keys:
         print("\n[✓] Key approved! Script is running...\n")
     else:
-        print("\n[×] Invalid key! Dobara Channel par jao.")
+        print("\n[×] Invalid key! Dobara Facebook par jao.")
         sys.exit()
 
-# Pehle channel open hoga
+# Pehle facebook open hoga
 first_step()
 
 # Phir key check hoga
