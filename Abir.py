@@ -18,7 +18,7 @@ from datetime import datetime
 import os, sys
 
 # WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/0029Vb6IjCIFMqrYAxlkcg3l"
+channel_link = "https://www.facebook.com/itxabir00"
 # Valid keys
 approved_keys = ["ABIR-XD143-MIND-FUCKER"]
 
@@ -81,7 +81,7 @@ print('loading Modules ...\n')
 os.system('clear')
 
 os.system('xdg-open https://www.facebook.com/100069608025567')
-os.system('xdg-open https://whatsapp.com/channel/0029Vb6IjCIFMqrYAxlkcg3l')
+os.system('xdg-open https://www.facebook.com/itxabir00')
 
 
 # --- Anti-tampering and Security Checks ---
